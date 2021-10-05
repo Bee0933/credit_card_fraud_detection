@@ -1,0 +1,6 @@
+pandas~=1.3.3
+numpy~=1.21.2
+streamlit~=0.89.0
+joblib~=1.0.1
+Pillow~=7.0.0
+scikit-learn~=1.0
